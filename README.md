@@ -12,7 +12,7 @@ Olá, eu sou o **Jean**. Estudo desenvolvimento de sistemas e Ciência da Comput
 
 - 📍 Brasil
 - 🎯 Objetivo: estágio ou vaga júnior em segurança da informação / SOC / AppSec
-- 🔗 LinkedIn: [adicione seu link aqui]
+- 🔗 LinkedIn: https://www.linkedin.com/in/jeanvieira-dev/
 
 ---
 
@@ -89,8 +89,8 @@ cybersecurity-writeups/
 ## 📬 Contato
 
 - GitHub: [seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [adicione seu link aqui]
-- E-mail: [adicione seu e-mail aqui]
+- LinkedIn: https://www.linkedin.com/in/jeanvieira-dev/
+- E-mail: jeangcv@hotmail.com
 
 ---
 
